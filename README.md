@@ -4,7 +4,6 @@
 
 這是一個展示個人 AI 生成圖片的網站，提供圖片上傳、展示和管理功能。使用者可以上傳自己創作的 AI 生成圖片，並在網站上進行簡單展示和管理。
 
-網站地址：[https://wish100.tidepeng.workers.dev](https://wish100.tidepeng.workers.dev)
 
 ## 功能特色
 
